@@ -1,0 +1,5 @@
+name: Playercompass
+version: ${project.version}
+main: com.javabuckets.playercompass.Playercompass
+authors: [JavaBuckets]
+description: Get a compass that tracks a given player
